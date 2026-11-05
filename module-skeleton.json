@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-bundles-and-kits-filament",
+  "capabilityKey": "planned:ecommerce:bundles-and-kits",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/ecommerce-bundles-and-kits-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/ecommerce/nextjs/bundles-and-kits.md",
+  "presentationPlan": "projects/ecommerce/filament/bundles-and-kits.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
